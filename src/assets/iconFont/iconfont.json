@@ -1,0 +1,44 @@
+{
+  "id": "4306727",
+  "name": "短视频",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19705568",
+      "name": "Heart",
+      "font_class": "Heart",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
+      "icon_id": "19705601",
+      "name": "Star",
+      "font_class": "Star",
+      "unicode": "e754",
+      "unicode_decimal": 59220
+    },
+    {
+      "icon_id": "37875843",
+      "name": "Heart",
+      "font_class": "Heart-copy",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "37875844",
+      "name": "Star",
+      "font_class": "Star-copy",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "19705552",
+      "name": "Chat",
+      "font_class": "Chat",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    }
+  ]
+}
